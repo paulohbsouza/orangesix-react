@@ -5,7 +5,7 @@
     "sass-watch": "sass assets/scss:assets/css --watch --no-source-map 2> nul"
   },
   "dependencies": {
-    "@orangesix/react": "^1.0.10"
+    "@orangesix/react": "^1.1.1"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.4",
